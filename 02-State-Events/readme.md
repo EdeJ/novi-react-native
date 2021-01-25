@@ -19,4 +19,4 @@
 - Gebruik het ingebouwde Button component van React Native
 - De "Draw a number" knop mag niks doen als het spel voorbij is (na 21 punten)
 
-![layout](./movie.mov)
+![layout](./movie.gif)
